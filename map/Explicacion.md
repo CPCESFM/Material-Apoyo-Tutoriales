@@ -7,7 +7,7 @@ Para llegar a este archivo debes haber leído previamente los ejercicios para en
 
 [Este es el link para el ejercicio conformity.cpp](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2261)
 
-[Este es el link para el ejercicio wordindex.cpp](https://github.com/meysamaghighi/UVa/blob/master/417%20-%20Word%20Index.cpp)
+[Este es el link para el ejercicio wordindex.cpp](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=358)
 
 Si gustas hacer más ejercicios, más sencillos o más complejos puedes encontrarlos en este link
 
