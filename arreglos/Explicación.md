@@ -24,7 +24,7 @@ El algoritmo es intuitivo, para cada secuencia de numeros podemos hacer esto:
 ```C++
 #include <bits/stdc++.h>
 using namespace std;
-int t;
+int t,n;
 int arre[3002];
 bool aux[3002];
 
@@ -50,6 +50,19 @@ void dife() {
 	}
 }
 
+bool comprueba() {
+	/***Recorremos el arreglo uno por uno, si nos falta algun
+	numero entre 1 y n-1 retornamos FALSE pues no es saltador alegre,
+	si hemos obtenido todos los numeros del 1 al n-1 (es decir,
+	terminamos el ciclo) entonces retornamos TRUE***/
+	for(int i=1; i<n; i++) {
+		///Que una casilla sea cero implica que no obtuvimos este numero
+		if(aux[i]==0) {
+			return false;
+		}
+	}
+	return true;
+}
 
 int main() {
 	ios_base::sync_with_stdio(0); cin.tie(0);
@@ -61,7 +74,17 @@ int main() {
 		leer();
 		///Hacemos las diferencias entre los elementos consecutivos con nuestra función dife()
 		dife();
-		///Hacemos una función para comprobar 
+		///Hacemos una función bool para comprobar, si regresa TRUE es saltador alegre, sino lo contrario
+		if(comprueba()) {
+			cout << "Alegre\n";
+		} else {
+			cout << "No alegre\n";
+		}
+		///Por ultimo limpiamos, basta con llenar de 0's ambos arreglos
+		for(int i=1; i<=n; i++) {
+			arre[i]=0;
+			aux[i]=0;
+		}
 	}
 	return 0;
 }
