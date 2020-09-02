@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-///Declaramos una variable, n, para guardar el número de números
+///Declaramos una variable, n que nos dan de entrada para el numero de elementos
 int n;
 ///Creamos el arreglo de acuerdo al maximo numero de elementos que nos dan en el problema
 int arre[1002];
