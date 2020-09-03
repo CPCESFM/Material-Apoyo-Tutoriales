@@ -55,3 +55,21 @@ El algoritmo es intuitivo, para cada secuencia de numeros podemos hacer esto:
 + Con un ciclo **recorremos el arreglo elemento por elemento**, **obtenemos el abs de la diferencia** entre dos consecutivos, **checamos si entra en el rango de _1_ a _n-1_** y si es así **marcamos este numero como obtenido en un arreglo auxiliar**
 + Luego, **recorremos este arreglo auxiliar viendo que numeros están marcados como obtenidos**, si en el transcurso hace falta alguno pues **no es saltador alegre**, si logramos terminar el recorrido entonces juntamos todos los valores y **es saltador alegre**
 + Finalmente, **limpiamos todos los arreglos** para una proxima secuencia (para que no obtengamos errores por el cálculo anterior)
+
+## Comentarios importantes y motivación
+Los arreglos son estructuras de datos muy útiles por su acceso, almacenamiento y velocidad, manejarlos al 100% puede salvarte la vida y te da una compresión mas amplia para pensar en soluciones de problemas (ahora puedes imaginar soluciones que involucren muchas variables, recorridos, operaciones sobre un arreglito), es como desbloquear un nuevo nivel de habilidad
+
+Muchas de las estructuras de datos que siguen se fundamentan en ideas como estas, asi que definitamente manejarlos te dará una súper ventaja. Para mejorar tu habilidad de resolver problemas tienes que intentar todos los que puedas y tomar la mayor experiencia posible, aquí unos links a problemas o a lugares donde puedes encontrarlos =D estos problemas son de nivel introductorio para que aprendas trucos útiles y te familiarices cada vez mas con los arreglos
+
++ [Bolita](https://omegaup.com/arena/problem/bolita#problems)
++ [Alice, Bob and candies](https://codeforces.com/contest/1352/problem/D)
++ [Línea mas larga](https://omegaup.com/arena/problem/Linea-mas-larga#problems)
++ [Queue at the school](https://codeforces.com/problemset/problem/266/B)
++ [Penthouse](https://omegaup.com/arena/problem/Penthouse#problems)
++ [Cut Ribbon](https://codeforces.com/problemset/problem/189/A)
++ [Potencias de dos](https://omegaup.com/arena/problem/ptwo#problems)
++ [I_love_%username%](https://codeforces.com/problemset/problem/155/A)
++ [El problema de 3N+1](https://omegaup.com/arena/problem/El-problema-de-3n1#problems)
++ No podía faltar el [repositorio sobre arreglos del CP3 en el UVa Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=623), a veces se muere por un rato
+
+`Hasta la próxima amigos`
