@@ -41,7 +41,7 @@ En un tiro puedes eliminar grupitos (en realidad se llaman _substrings_ o subcad
 Por cada caso de prueba imprime **el puntaje que logra obtener Alice** suponiendo que los dos jugadores juegan óptimamente (checa la consideración final)
 
 #### Ejemplitos
-Si tenemos `011011110111`, Alice tira y **suma 4** dejando `01100111`, Bob tira y suma 3 dejando `01100`, Alice tira y **suma 2** dejando `000`, ya no hay caracteres '1' por lo tanto **Alice gana 6** y esa es la respuesta
+Si tenemos `011011110111`, Alice tira y **suma 4** dejando `01100111`, Bob tira y suma 3 dejando `01100`, Alice tira y **suma 2** dejando `000`, ya no hay caracteres `1` por lo tanto **Alice gana 6** y esa es la respuesta
 
 Trata de ejecutar todos los casos de prueba del ejemplo y crea los tuyos
 
