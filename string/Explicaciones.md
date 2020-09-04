@@ -68,6 +68,8 @@ El algoritmo queda asi para cada cadena:
 	+ El elemento mas grande se suma a la respuesta, el siguiente no se suma, el siguiente se suma a la respuesta y así sucesivamente, ir avanzando de dos en dos (regresa al ejemplo para que te quede mas claro si es necesario)
 + Finalmente imprimimos la variable de respuesta seguida de un salto de línea
 
+¿Cual es la complejidad de esta solución? Por cada cadena de longitud n, recorremos con un ciclo O(n) y en el transcurso vamos detectando los substrings y metiendo al vector O(1), luego ordenamos las, digamos, m longitudes distintas (¿hasta cuanto crece m?, considera casos como `1010101010101...`) en O(m log m) y finalmente recorremos ese mismo vector en O(m/2) (aproximadamente O(m))
+
 ### [¡Ya soy genial manejando string!](https://www.youtube.com/watch?v=BtLSaxRnIhc)
 Manejar cadenas de caracteres es útil en concursos de programación competitiva, aprenderte funciones útiles para estos objetos, trucazos para hacer algoritmos y combinarlos con temas pasados (y futuros) te hará tener mas experiencia y habilidad, aquí te dejo otros ejercicios introductorios que deberías intentar para afianzar conocimiento
 + [Palindromos](https://omegaup.com/arena/problem/COMI-Palindromos/#problems)
