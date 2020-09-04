@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 ///Declaramos un arreglo de tipo caracter con el maximo numero de piedras
 char piedra[52];
 int n;
