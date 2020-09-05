@@ -5,7 +5,7 @@ Antes de continuar, [en esta página](https://juanitobanca.com/2017/03/07/draft-
 Sea `P` un contenedor de nuestra permutación, velo como un arreglo de un tipo de dato como `char` o `int`
 
 + Encontrar el mayor valor de `x` tal que `P[x] < P[x+1]`. Si dicho valor de `x` no existe, entonces `P` es la última permutación lexicográfica que puede ser concebida por medio del conjunto de elementos que la conforman.
-+ Encontrar el mayor valor de `y` tal que `P[x]<P[y]`. Si dicho valor de `y` no existe, entonces `P` es la última permutación lexicográfica que puede ser concebida por medio del conjunto de elementos que la conforman.
++ Encontrar el mayor valor de `y` tal que `P[x] < P[y]`. Si dicho valor de `y` no existe, entonces `P` es la última permutación lexicográfica que puede ser concebida por medio del conjunto de elementos que la conforman.
 + Intercambiar `P[x]` por `P[y]` y viceversa.
 + Invertir los elementos desde `P[x+1]` hasta `P[n]`.
 
