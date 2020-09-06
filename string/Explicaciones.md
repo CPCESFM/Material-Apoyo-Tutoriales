@@ -73,7 +73,6 @@ El algoritmo queda asi para cada cadena:
 ### [¡Ya soy genial manejando string!](https://www.youtube.com/watch?v=BtLSaxRnIhc)
 Manejar cadenas de caracteres es útil en concursos de programación competitiva, aprenderte funciones útiles para estos objetos, trucazos para hacer algoritmos y combinarlos con temas pasados (y futuros) te hará tener mas experiencia y habilidad, aquí te dejo otros ejercicios introductorios que deberías intentar para afianzar conocimiento
 + [Palindromos](https://omegaup.com/arena/problem/COMI-Palindromos/#problems)
-+ [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B)
 + [Carretes](https://omegaup.com/arena/problem/Carretes/#problems)
 + [Short substrings](https://codeforces.com/problemset/problem/1367/A)
 + [Fila de hormigas](https://omegaup.com/arena/problem/Fila-de-hormigas#problems)
