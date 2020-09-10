@@ -1,15 +1,5 @@
 # Permutaciones
 En este apartado se comentan las soluciones de los problemas para `std::next_permutation` y `std::prev_permutation`
-Antes de continuar, [en esta página](https://juanitobanca.com/2017/03/07/draft-permutaciones-lexicograficas/#:~:text=En%20el%20campo%20de%20las,dispuestos%20es%20un%20factor%20clave.) se describe un algoritmo muy sencillo para determinar la siguiente permutación lexicográfica:
-
-Sea `P` un contenedor de nuestra permutación, velo como un arreglo de un tipo de dato como `char` o `int`
-
-+ Encontrar el mayor valor de `x` tal que `P[x] < P[x+1]`. Si dicho valor de `x` no existe, entonces `P` es la última permutación lexicográfica que puede ser concebida por medio del conjunto de elementos que la conforman.
-+ Encontrar el mayor valor de `y` tal que `P[x] < P[y]`. Si dicho valor de `y` no existe, entonces `P` es la última permutación lexicográfica que puede ser concebida por medio del conjunto de elementos que la conforman.
-+ Intercambiar `P[x]` por `P[y]` y viceversa.
-+ Invertir los elementos desde `P[x+1]` hasta `P[n]`.
-
-Sin más preámbulo, aquí la solución a los problemas
 
 ## [ID Codes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=82)
 #### Descripción del problema
@@ -47,7 +37,7 @@ Primero, dejemos en claro como funciona el proceso de sumas con la secuencia `2 
 
 Con todo este proceso obtuvimos `65`, el problema nos pide ordenar los primeros números `2 1 5 6 3` de cierta manera para obtener un número dado **k**. Tomate la libertad de ordenar los numeros en otro orden y ver que obtienes otro número distinto =)
 
-#### [Solución](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/permutaciones/Sumas_consecutivas.md)
+#### [Solución](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/permutaciones/Sumas_consecutivas.cpp)
 Probar todas las posibles permutaciones de los números que nos dan, calcular que número se obtiene con el proceso en cada permutación e ir comparando con **k**, como nos aseguran que se puede formar **k** con alguna permutación esta solución es válida
 
 **_¿Pero cual es la complejidad de hacer todas las permutaciones de n números?_** Por supuesto tenemos **n!** permutaciones distintas, si utilizamos la función `next_permutation(,)` que transforma un rango en la siguiente permutación en O(n/2) tendremos aproximadamente (en el peor caso por supuesto) una complejidad de O(n/2*n!)que aprox es O(n*n!), a esto debemos todavia agregar la complejidad del proceso de sumas (que describiremos a continuación) pero **acotemos la complejidad de nuestra solución en O(m n!)** con **m** una constante que represente la complejidad del calculo para cada permutación. Como **1<=n<=10** esto es perfecto para este problema con 1 segundo de tiempo de ejecución (recuerda que una complejidad de n! necesita limites pequeñisimos para entrar en tiempo)
@@ -82,6 +72,6 @@ Checa el código, de seguro te quedará mucho mas claro si lo sigues a tu ritmo 
 Los problemas sobre permutaciones en programación competitiva no son los más frecuentes pero preparate para obtener un AC en cuanto veas uno, te dejaré un par de problemas relacionados con permutaciones, recuerda que el uso de las funciones `next_permutation(,)` debe ser controlado pues existen **n!** permutaciones distintas de un conjunto con **n** elementos, mucho ojo
 
 + [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) (mucho ojo, insisto)
-+ [Wordfish](google.com)
++ [Wordfish](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=3650)
 
 `Hasta la proxima amigos`
