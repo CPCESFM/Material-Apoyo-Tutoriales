@@ -1,5 +1,4 @@
-# Comenzando con C++
-## Esqueleto de un programa
+# Esqueleto de un programa
 
 En este apartado veremos cual es la **estructura básica de un programa en C++**, es decir, el _esqueleto_ que debemos escribir antes de comenzar a programar. Estas son las cosas que componen esta estructura:
 
