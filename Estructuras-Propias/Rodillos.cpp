@@ -25,7 +25,7 @@ bool Estan_conectados(rodillo A, rodillo B){  //Declaramos una función que calc
 
 void resp(){    //Declaramos la función que calcula la respuesta
     int visitados=1;    //Variable local que cuenta el número de rodillos visitados o activados
-    do{
+    while(visitados<n){     //el proceso termina cuando todos los rodillos están activados o visitados
         for(int i=1;i<=n;i++){  //Para el rodillo actual, se buscará al rodillo que activa
             //El rodillo que activa es el que está conectado (Usamos la funcion "Estan_conectados") y además es distinto del anterior:
             if(Estan_conectados(Rodillos[actual],Rodillos[i])&& (anterior!=i)){
@@ -35,7 +35,7 @@ void resp(){    //Declaramos la función que calcula la respuesta
                 break;          //Rompemos el for, pues ya no es necesario buscar en los demás
             }
         }
-    }while(visitados<n);    //el proceso termina cuando todos los rodillos están activados o visitados
+    }
     cout<<Rodillos[actual].x<<" "<<Rodillos[actual].y;  //Mostramos la posición del último rodillo activado
 
 }
