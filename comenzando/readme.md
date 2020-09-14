@@ -2,7 +2,7 @@
 
 En esta sección hay material sobre como iniciar un programa y el primer problema de nuestro primer video
 
-![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/codigo_de_fondo.png)
+![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/codigo_fondo.png)
 
 ## Referencias, libros y más
 
