@@ -29,7 +29,7 @@ El siguiente, problema en el que nautralmente puedes pensar es sobre la separaci
 bueno, aquí es donde entra el proceso `tokenizing`, para esto haremos uso de un `string` de paso, un `vector` y un ciclo `while()` tal como se muestra a continuación
 
 ```C++
-      stringstream check_i(s_i);
+      	    stringstream check_i(s_i);
 	    while(getline(check_i, intermedia, ' ')) {
 	       	indices.push_back(intermedia);
 	   	}
