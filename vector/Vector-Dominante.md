@@ -25,7 +25,7 @@ Luego hacuendo uso de nuesto **n-tope** introducimos los elementos de nuestros c
 	}
 ```
 De esta forma **estamos listos** para verificar la condición que se nos pide. La tarea la llevaremos acabo utilizando una vrariable del tipo **bool**,
-con la cual al ir iterando de uno en uno los elementos de nuestrso conjuntos verifica la condición de que siempre v1[i] > v2[i], para i en [0,n).
+con la cual al ir iterando de uno en uno los elementos de nuestrso conjuntos verifica la condición de que siempre `v1[i] > v2[i], para i en [0,n)`.
 
 ```C++
   cond=true;
@@ -34,7 +34,6 @@ con la cual al ir iterando de uno en uno los elementos de nuestrso conjuntos ver
 			cond=false;
 			break;
 		}
-
 	}
 	if(cond){
 		cout << 1;
