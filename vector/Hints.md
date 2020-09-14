@@ -12,14 +12,10 @@ Para este problema utiliza una cubeta de valores enteros después imprime los va
 
 ## Permutation Arrays 
 
-Este problema, probablemente es el más exigente de esta sección ya que necesita un proceso de **tokenizing** sobre un string y el uso de la función **stoi**
-
-```c++
-stoi(string);
-```
-
-y el uso de un vector de pairs con los siguientes valores en sus entrada
+Este problema, probablemente es el más exigente de esta sección ya que necesita un proceso de **tokenizing** sobre un string y el uso de la función **stoi**, así también de una estructura de datos poco común.
 
 ```c++
 vector<pair<int,string>> lista;
 ```
+
+**Mucho cuidado** con la impresión, ya que para **UVa** no tener la presentación correcta implica que lasolución se tome como incorrecta.  
