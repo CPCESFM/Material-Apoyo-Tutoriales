@@ -1,6 +1,6 @@
 # HINTS
 
-En esta sección podrás encontrar ideas de solución para cada problema, rescuerda usar esta información de forma *sabia*. 
+En esta sección podrás encontrar ideas de solución para cada problema, rescuerda usar esta información de forma **sabia**. 
 
 ## Vector Dominante
 
@@ -12,7 +12,13 @@ Para este problema utiliza una cubeta de valores enteros después imprime los va
 
 ## Permutation Arrays 
 
-Este problema, probablemente es el más exigente de esta sección ya que necesita un proceso de tokenizing sobre un arreblo y el uso de un vector de pairs con los siguientes valores en sus entrada
+Este problema, probablemente es el más exigente de esta sección ya que necesita un proceso de **tokenizing** sobre un string y el uso de la función **stoi**
+
+```c++
+stoi(string);
+```
+
+y el uso de un vector de pairs con los siguientes valores en sus entrada
 
 ```c++
 vector<pair<int,string>> lista;
