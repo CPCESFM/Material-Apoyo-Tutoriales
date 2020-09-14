@@ -2,7 +2,7 @@
 
 Bienvenido al apartado de permutaciones, en este directorio encontrarás una presentación sencilla del tema, ejercicios propuestos y soluciones
 
-![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/colores.jpg)
+![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/colors.jpg)
 
 ## Ejercicios propuestos
 + [ID Codes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=82)
