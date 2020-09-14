@@ -2,15 +2,15 @@
 
 En esta sección podrás encontrar ideas de solución para cada problema, rescuerda usar esta información de forma **sabia**. 
 
-## Vector Dominante
+## [Vector Dominante](https://omegaup.com/arena/problem/Vector-dominante/#problems/Vector-dominante)
 
 Para este problema utiliza dos [vectores](http://www.cplusplus.com/reference/vector/vector/) del tipo entero, introduce los datos que se te dan y compara uno a uno los elementos de estos. 
 
-## Querys and more Querys 
+## [Querys and more Querys](https://omegaup.com/arena/problem/Querys-and-more-Querys/#problems) 
 
 Para este problema utiliza una cubeta de valores enteros después imprime los valores dentro de la cubeta,con el formato correspondiente. 
 
-## Permutation Arrays 
+## [Permutation Arrays](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=623&page=show_problem&problem=423) 
 
 Este problema, probablemente es el más exigente de esta sección ya que necesita un proceso de ``tokenizing`` sobre un string y el uso de la función ``stoi*``, así también de una estructura de datos poco común.
 
