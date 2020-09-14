@@ -20,7 +20,7 @@ se nos pide
 	getline(cin, enter1);
 	for(int s=0; s<casos; s++) {	    
 		getline(cin, enter2);
-    getline(cin, s_i);
+    		getline(cin, s_i);
 ```
 
 **Notemos** que ya entramos a un ciclo `for()` y esto porque vamos a iterar tantas veces como `casos`. 
@@ -36,9 +36,9 @@ bueno, aquí es donde entra el proceso `tokenizing`, para esto haremos uso de un
 	   	intermedia.clear();
 	   	getline(cin, s_v);
 	   	stringstream check_v(s_v);
-    	while(getline(check_v, intermedia, ' ')) {
-	       	valores.push_back(intermedia);
-	    }
+    		while(getline(check_v, intermedia, ' ')) {
+	       		valores.push_back(intermedia);
+	    	}
 ```
 
 Lo que puede saltarte a la vista en este proceso es `tringstream check_i(s_i)` y `getline(check_i, intermedia, ' ')` y sus correspondientes equivalentes
