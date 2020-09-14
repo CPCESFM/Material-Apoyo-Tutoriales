@@ -44,7 +44,7 @@ Probar todas las posibles permutaciones de los números que nos dan, calcular qu
 
 **¿Como hacer el proceso de sumas?** Tomemos la secuencia `1 2 3 4` para ejemplificar y supongamos está guardada en un arreglo, entonces se ve así: `[1] [2] [3] [4]`. Hagamos el proceso de sumas sobre este mismo arreglo, te dejo una imagen de como se haría a mano y ve viendo como se va haciendo con el algoritmo
 
-![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/sumas_consecutivas.jpg)
+![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/sumas.jpg)
 
 + Tenemos `[1] [2] [3] [4]`, obtengamos los siguientes tres números **sumando en cada casilla el número actual con el siguiente**: `[1+2] [2+3] [3+4] [4]`, observa que solo lo hacemos para los primeros tres y el cuarto ya no se modifica. Entonces tenemos ahora `[3] [5] [7] [4]`
 + Tenemos `[3] [5] [7] [4]`, obtengamos los dos siguientes comoo lo hicimos en el paso anterior pero solo con los dos primeros: `[3+5] [5+7] [7] [4]` (ahora no modificamos el tercer número, solo necesitabamos dos). Así obtuvimos `[8] [12] [7] [4]`
