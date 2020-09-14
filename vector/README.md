@@ -4,7 +4,7 @@ Recuerda que todo **grand poder** conlleva una **gran responsabilidad**, usa est
 
 En esta sección podrás revisar los análisis y códigos de solución para los siguientes problemas:
 
-+ [Vector Dominantes (OegaUp)](https://omegaup.com/arena/problem/Vector-dominante/#problems/Vector-dominante)
++ [Vector Dominante (OegaUp)](https://omegaup.com/arena/problem/Vector-dominante/#problems/Vector-dominante)
 
 + [Querys and more Querys (OmegaUp)](https://omegaup.com/arena/problem/Querys-and-more-Querys/#problems)
 
