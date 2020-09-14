@@ -1,18 +1,18 @@
 # Análisis del problema Vector Dominante 
 
 En este problema se nos pide que determinemos si los elementos de un primer conjunto siempre son mayores que los de un segundo, para ello tenemos que crear
-nuestros conjuntos y por ello haremos uso de los dos **vectores**.
+nuestros conjuntos y por ello haremos uso de dos [vectores](http://www.cplusplus.com/reference/vector/vector/).
 
 ```c++
 vector<int> v1, v2; 
 ```
 
-Una vez que tenemos nuestros vectores, se nos especifíca la cantidad de elementos que habrá dentro de ellos, por tanto leemos **n**. 
+Una vez que tenemos nuestros vectores, se nos especifíca la cantidad de elementos que habrá dentro de ellos, por tanto leemos `n`. 
  
 ```C++
   cin >> n;
 ```
-Luego hacuendo uso de nuesto **n-tope** introducimos los elementos de nuestros conjuntos haciendo uso de dos ciclos **for**. 
+Luego hacuendo uso de nuesto `n-tope` introducimos los elementos de nuestros conjuntos haciendo uso de dos ciclos `for`. 
 
 ```C++
   for(int i=0; i<n; i++) {
