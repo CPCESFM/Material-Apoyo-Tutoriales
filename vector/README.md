@@ -18,7 +18,8 @@ Ahora, si consideras que tus dudas son de implementación, puedes dirigirte a la
 
 + [geeksforgeeks](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 
-O bien ir al [pdf](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/vector/vector.pdf) de la sección, donde podrás encontrar una breve sintesis de lo que viste en el video. 
+O bien ir al [pdf](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/vector/vector.pdf) de la sección y para complementar también puedes checar 
+el código usado en el video del tema. 
 
 Mucha suerte y que la **fuerza** te acompañe. 
 
