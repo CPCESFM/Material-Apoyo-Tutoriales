@@ -18,6 +18,8 @@ Ahora, si consideras que tus dudas son de implementación, puedes dirigirte a la
 
 + [geeksforgeeks](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 
+O bien ir al pdf de la sección, donde podrás encontrar una breve sintesis de lo que viste en el video. 
+
 Mucha suerte y que la **fuerza** te acompañe. 
 
 
