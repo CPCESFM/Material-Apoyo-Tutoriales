@@ -1,6 +1,6 @@
 # Bienvenido a los Vectores
 
-Recuerda que todo GRAN PODER conlleva una GRAN RESPONSABILIDAD, usa este material sabiamente. 
+Recuerda que todo **grand poder** conlleva una **gran responsabilidad**, usa este material sabiamente. 
 
 En esta sección podrás revisar los análisis y códigos de solución para los siguientes problemas:
 
@@ -18,7 +18,7 @@ Ahora, si consideras que tus dudas son de implementación, puedes dirigirte a la
 
 + [geeksforgeeks](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 
-Mucha suerte y que la FUERZA te acompañe. 
+Mucha suerte y que la **fuerza** te acompañe. 
 
 
 
