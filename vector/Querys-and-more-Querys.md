@@ -47,14 +47,14 @@ al conciderar los índices de nuestras estructuras como los números en la entra
 **Notemos** que aparece la función `.reserve()` y esto porque los vectores almacenan información hasta el tiempo de ejecución, por tanto no podríamos utilizar 
 la técnica que deseamos. 
 
-Una vez que tenemos nuestra contabilidad de veces que aparece un valor, entonce sólo falta imprimir las querys que sean necesarias, por tanto
+Una vez que tenemos nuestra contabilidad de veces que aparece un valor, entonce sólo falta imprimir los resultados respecto a las **querys**, por tanto
 leemos el valor de estas en una variable `q` y a la vez que las leemos hacemos un proceso muy parecido al que usamos durante la lectura
 aunque esta vez imprimimos en vez de sumar un elemento, por medio de un ciclo `for()`.
 
 + Vector 
 
 ```C++
-  cin >> q;
+  	cin >> q;
 	for(int j=0; j<q; j++) {
 		cin >> q_i;
 		cout << vcubeta[q_i] << "\n";
@@ -63,7 +63,7 @@ aunque esta vez imprimimos en vez de sumar un elemento, por medio de un ciclo `f
 + Arreglo
 
 ```C++
-  cin >> q;
+  	cin >> q;
 	for(int j=0; j<q; j++) {
 		cin >> q_i;
 		cout << acubeta[q_i] << "\n";
