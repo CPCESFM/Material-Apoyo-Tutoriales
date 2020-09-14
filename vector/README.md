@@ -22,5 +22,6 @@ O bien ir al [pdf](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/mas
 
 Mucha suerte y que la **fuerza** te acompañe. 
 
+![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/vector_and_pointer.png)
 
 
