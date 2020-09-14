@@ -10,7 +10,7 @@ En esta sección podrás revisar los análisis y códigos de solución para los 
 
 + [Permutation Arrays (UVa online judge)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=623&page=show_problem&problem=423)
 
-Como primer paso te recomendamos dirijirte al apartado de hints donde podrás encontrar pequeñas claves para tu solución, si con estas ayudas no crees que sea suficiente entonces puede ir al análisis de cada código y por último revisar el .cpp de la solución.
+Como primer paso te recomendamos dirijirte al apartado de [Hints](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/vector/Hints.md) donde podrás encontrar pequeñas claves para tu solución, si con estas ayudas no crees que sea suficiente entonces puede ir al análisis de cada código y por último revisar el .cpp de la solución.
 
 Ahora, si consideras que tus dudas son de implementación, puedes dirigirte a las siguientes referencias:
 
