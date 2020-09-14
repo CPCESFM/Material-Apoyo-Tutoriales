@@ -19,3 +19,5 @@ vector<pair<int,string>> lista;
 ```
 
 **Mucho cuidado** con la impresión, ya que para **UVa** no tener la presentación correcta implica que lasolución se tome como incorrecta.  
+
+![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/take_a_hint_by_brieana-d51ld7c.png)
