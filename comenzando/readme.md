@@ -19,6 +19,10 @@ Estos sitios tienen **animaciones** de muchos algoritmos, si eres muy visual te 
 + [VisualGo](https://visualgo.net/en)
 + [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/)
 
+¿Cómo iniciar con la programación competitiva? Lee estos artículos
++ [How to begin with Competitive Programming?](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/)
++ [Getting started with the sport of competitive programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/)
+
 ## IDE's
 
 Aquí te dejo una lista de _entornos de desarrollo_ muy populares y otras opciones para programar en varios sistemas operativos
