@@ -23,6 +23,6 @@ el [código](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/ve
 
 Mucha suerte y que la **fuerza** te acompañe. 
 
-![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/vector.png)
+![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/vector_y_apuntador.png)
 
 
