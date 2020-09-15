@@ -4,7 +4,7 @@ En esta sección podrás encontrar ideas de solución para cada problema, rescue
 
 ## [Ordenamiento en cubetas](https://omegaup.com/arena/problem/Ordenando-en-cubetas/#problems)
 
-Utiliza la función `sort()` bajo el parámetro de ordenamiento determinado, para mejorar en tiempo tu solución.
+Utiliza la función `sort()` bajo el parámetro de ordenamiento determinado, para mejorar en tiempo tu solución y utiliza la función `count()` ya implementada.
 
 
 ## [Polycarp Training](https://codeforces.com/problemset/problem/1165/B) 
