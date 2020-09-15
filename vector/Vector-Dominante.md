@@ -1,4 +1,4 @@
-# Análisis del problema Vector Dominante 
+# Análisis al problema de [Vector Dominante](https://omegaup.com/arena/problem/Vector-dominante/#problems/Vector-dominante) 
 
 En este problema se nos pide que determinemos si los elementos de un primer conjunto siempre son mayores que los de un segundo, para ello tenemos que crear
 nuestros conjuntos y por ello haremos uso de dos [vectores](http://www.cplusplus.com/reference/vector/vector/).
