@@ -1,4 +1,4 @@
-# Solución al problema de Querys and more Querys 
+# Solución al problema de [Querys and more Querys](https://omegaup.com/arena/problem/Querys-and-more-Querys/#problems) 
 
 Se seleccionó este problema ya que permite ver que en gran parte el uso de vector y arreglos es un poco más de preferencia que de obligación, pero mucho 
 **cuidado**, siempre ten en cuenta el costo en tiempo que representa usar vectores. Con esto en mente, se nos pide que determinemos cuantas veces aparece un 
