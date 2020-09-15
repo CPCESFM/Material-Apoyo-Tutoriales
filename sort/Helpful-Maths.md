@@ -25,7 +25,7 @@ cin >> s;
 Una vez que lo leemos, entonces lo partimos por un `tokenizing` 
 
 ```C++
-  stringstream check(s);
+  	stringstream check(s);
 	while(getline(check, inter, '+')) {
 		snumeros.push_back(inter);
 	}
@@ -37,7 +37,7 @@ el caracter `'+'`, luego introducimos estos `substrings` en el `vector` que decl
 vez que tenemos todos nuestros `substrings` guardados en el `vector` procedemos a guardarlos en un arreglo pero como números enteros por la función `stoi()`.
 
 ```C++
-  for(int i=0; i<snumeros.size(); i++) {
+  	for(int i=0; i<snumeros.size(); i++) {
 		numeros[i]=stoi(snumeros[i]);
 	}
 ```
@@ -45,13 +45,13 @@ vez que tenemos todos nuestros `substrings` guardados en el `vector` procedemos 
 Luego ordenamos estos elementos con la función `sort()`
 
 ```C++
-sort(numeros, numeros+snumeros.size());
+	sort(numeros, numeros+snumeros.size());
 ```
 
 Y por último imprimimos en la forma que se nos solicita
 
 ```C++
-  for(int j=0; j<(snumeros.size()-1); j++) {
+  	for(int j=0; j<(snumeros.size()-1); j++) {
 		cout << numeros[j] << "+";
 	}
 	cout << numeros[snumeros.size()-1];
