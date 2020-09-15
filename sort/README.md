@@ -20,6 +20,6 @@ Ahora, si consideras que tus dudas son de implementación, puedes dirigirte a la
 + [geeksforgeeks](https://www.geeksforgeeks.org/sort-c-stl/)
 
 O bien puedes checar el [pdf](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/sort/sort.pdf) de la sección y para complementar pasarte por el
-el [código](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/vector/Vector.cpp) usado en el video del tema. 
+el [código](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/sort/SortFunctions.cpp) usado en el video del tema. 
 
 Mucha suerte y que la **fuerza** te acompañe. 
