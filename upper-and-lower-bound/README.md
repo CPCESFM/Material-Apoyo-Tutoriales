@@ -24,5 +24,5 @@ el [código](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/so
 
 Mucha suerte y que la **fuerza** te acompañe. 
 
-![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/merge_sort.png)
+![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/upper_and_lower_boud.png)
 
