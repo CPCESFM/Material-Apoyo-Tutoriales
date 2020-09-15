@@ -70,14 +70,4 @@ El algoritmo queda asi para cada cadena:
 
 ¿Cual es la complejidad de esta solución? Por cada cadena de longitud n, recorremos con un ciclo O(n) y en el transcurso vamos detectando los substrings y metiendo al vector O(1), luego ordenamos las, digamos, m longitudes distintas (¿hasta cuanto crece m?, considera casos como `1010101010101...`) en O(m log m) y finalmente recorremos ese mismo vector en O(m/2) (aproximadamente O(m))
 
-### [¡Ya soy genial manejando string!](https://www.youtube.com/watch?v=BtLSaxRnIhc)
-Manejar cadenas de caracteres es útil en concursos de programación competitiva, aprenderte funciones útiles para estos objetos, trucazos para hacer algoritmos y combinarlos con temas pasados (y futuros) te hará tener mas experiencia y habilidad, aquí te dejo otros ejercicios introductorios que deberías intentar para afianzar conocimiento
-+ [Palindromos](https://omegaup.com/arena/problem/COMI-Palindromos/#problems)
-+ [Carretes](https://omegaup.com/arena/problem/Carretes/#problems)
-+ [Short substrings](https://codeforces.com/problemset/problem/1367/A)
-+ [Fila de hormigas](https://omegaup.com/arena/problem/Fila-de-hormigas#problems)
-+ [Longest Palindrome](https://codeforces.com/problemset/problem/1304/B)
-+ [Baker](https://omegaup.com/arena/problem/Baker/#problems)
-+ No podiamos olvidar [el repositorio del CP3 para problemas AdHoc de string](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=737) aunque te recomiendo ver esto al final pues está un poco mas disperso y tendrás que manejar bien todas las herramientas sugeridas en los problemas anteriores
-
 `Hasta la proxima amigos`
