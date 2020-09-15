@@ -1,7 +1,7 @@
 # Bienvenidos a los Ordenamientos 
 
 
-Recuerda que todo **grand poder** conlleva una **gran responsabilidad**, usa este material sabiamente. 
+Recuerda que todo **gran poder** conlleva una **gran responsabilidad**, usa este material sabiamente. 
 
 En esta sección podrás revisar los análisis y códigos de solución para los siguientes problemas:
 
