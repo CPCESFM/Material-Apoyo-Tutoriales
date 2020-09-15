@@ -17,7 +17,7 @@ Ahora, si consideras que tus dudas son de implementación, puedes dirigirte a la
 
 + [cplusplus](http://www.cplusplus.com/reference/algorithm/upper_bound/)
 
-+ [geeksforgeeks](https://www.geeksforgeeks.org/lower_bound-in-cpp/)
++ [geeksforgeeks](https://www.geeksforgeeks.org/binary-search/)
 
 O bien puedes checar el [pdf](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/sort/sort.pdf) de la sección y para complementar pasarte por en
 el [código](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/sort/SortFunctions.cpp) usado en el video del tema. 
