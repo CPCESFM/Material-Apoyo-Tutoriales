@@ -3,7 +3,7 @@ En este apartado se explican los ejercicios de este tema
 
 ## [Arrays-DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
 #### Descripción del problema
-Dados **n** enteros dados en cierto orden, imprimirlos _de reversa_, sí, básicamente es eso
+Dados **n** enteros en cierto orden, imprimirlos _de reversa_, sí, básicamente es eso
 
 #### Ejemplitos
 **n=4**, `1 2 3 4` tenemos que imprimir `4 3 2 1`
