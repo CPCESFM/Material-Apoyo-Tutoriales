@@ -23,3 +23,5 @@ O bien puedes checar el [pdf](https://github.com/CPCESFM/Material-Apoyo-Tutorial
 el [código](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/sort/SortFunctions.cpp) usado en el video del tema. 
 
 Mucha suerte y que la **fuerza** te acompañe. 
+
+![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/merge_sort.png)
