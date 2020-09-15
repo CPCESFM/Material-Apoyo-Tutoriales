@@ -1,4 +1,4 @@
-#Solución al problema Ordenando En Cubetas
+# Solución al problema [Ordenando En Cubetas](https://omegaup.com/arena/problem/Ordenando-en-cubetas/#problems)
 
 En este problema se nos pide ordenar las pelotas en la cubeta correspondiente a su color, para esto usaremos un arreglo para guardar nuestras pelotas.
 
