@@ -9,7 +9,7 @@ Utiliza la función `sort()` bajo el parámetro de ordenamiento determinado, par
 
 ## [Polycarp Training](https://codeforces.com/problemset/problem/1165/B) 
  
-Sólo considera los problemas con mayor complejidad para estudiar 
+Lleva un contador que te permita ver los días que tomarás y sólo cambialo cuando el contest tenga mayor o igual cantidad de problemas.  
 
 ## [Helpful Maths](https://codeforces.com/problemset/problem/339/A) 
   
