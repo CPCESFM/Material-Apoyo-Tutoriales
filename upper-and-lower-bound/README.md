@@ -1,4 +1,4 @@
-# Bienvenidos Al Mayorante Y Minorante 
+# Bienvenidos al Mayorante y Minorante 
 
 
 Recuerda que todo **gran poder** conlleva una **gran responsabilidad**, usa este material sabiamente. 
