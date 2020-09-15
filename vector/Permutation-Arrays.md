@@ -1,4 +1,4 @@
-# Solución al problema de Permutation Arrays
+# Solución al problema de [Permutation Arrays](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=623&page=show_problem&problem=423)
 
 Este problema exige mucho en tanto análisis como en implementación, así que vayamos por partes. Se nos da una lista de valores con su respectivo índice, luego 
 se nos pide que ordenemos los índices en forma hacendente y que de acuerdo a este nuevo órden imprimamos los reales.
