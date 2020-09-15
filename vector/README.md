@@ -1,6 +1,6 @@
 # Bienvenido a los Vectores
 
-Recuerda que todo **grand poder** conlleva una **gran responsabilidad**, usa este material sabiamente. 
+Recuerda que todo **gran poder** conlleva una **gran responsabilidad**, usa este material sabiamente. 
 
 En esta sección podrás revisar los análisis y códigos de solución para los siguientes problemas:
 
@@ -18,7 +18,7 @@ Ahora, si consideras que tus dudas son de implementación, puedes dirigirte a la
 
 + [geeksforgeeks](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 
-O bien puedes checar el [pdf](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/vector/vector.pdf) de la sección y para complementar pasarte por el
+O bien puedes checar el [pdf](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/vector/vector.pdf) de la sección y para complementar pasarte por en
 el [código](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/vector/Vector.cpp) usado en el video del tema. 
 
 Mucha suerte y que la **fuerza** te acompañe. 
