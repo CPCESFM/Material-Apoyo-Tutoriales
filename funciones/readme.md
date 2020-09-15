@@ -3,6 +3,8 @@ Acabas de entrar al repositorio de funciones, aquí encontrarás una serie de co
 
 ![](https://github.com/CPCESFM/Material-Apoyo-Tutoriales/blob/master/commun/ejemplos_funciones_procedimientos.png)
 
+Además de nuestro video [esta página](https://www.programarya.com/Cursos/C++/Funciones) contiene una explicación interesante de funciones y procedimientos
+
 ## Funciones
 #### (códigos para hacer cosas y obtener un dato de resultado)
 Las funciones son pedazos de códigos que puedes implementar en tu programa e invocarlos, tienen la peculiaridad de que obtienes un valor que puedes guardar. Tienen más o menos esta pinta:
