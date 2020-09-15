@@ -5,7 +5,7 @@ Recuerda que todo **grand poder** conlleva una **gran responsabilidad**, usa est
 
 En esta sección podrás revisar los análisis y códigos de solución para los siguientes problemas:
 
-+ [Ordenamientos en Cubetas (OegaUp)](https://omegaup.com/arena/problem/Ordenando-en-cubetas/#problems)
++ [Ordenamientos en Cubetas (OmegaUp)](https://omegaup.com/arena/problem/Ordenando-en-cubetas/#problems)
 
 + [Polycarp Training (Codeforces)](https://codeforces.com/problemset/problem/1165/B)
 
