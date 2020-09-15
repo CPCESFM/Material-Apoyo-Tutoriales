@@ -10,6 +10,8 @@ Te recomiendo estos problemas de primera mano, encontrarás su resolución en un
 + [Saltador alegre](https://omegaup.com/arena/problem/Saltador-alegre/#problems/Saltador-alegre)
 
 ## Comentarios importantes y motivación
+Te invito a revisar [esta página](https://www.programarya.com/Cursos/C++/Estructuras-de-Datos/Arreglos-o-Vectores), tiene una explicación alternativa de los arreglos que puede ser útil =)
+
 Los arreglos son estructuras de datos muy útiles por su **acceso, almacenamiento y velocidad**, manejarlos al 100% puede salvarte la vida y te da una compresión mas amplia para pensar en soluciones de problemas (ahora puedes _imaginar soluciones que involucren muchas variables, recorridos, operaciones sobre un arreglito_, solo deja volar tu imaginación), es como desbloquear un nuevo nivel de habilidad
 
 Muchas de las estructuras de datos que siguen se fundamentan en ideas como estas, asi que definitamente manejarlos te dará una súper ventaja =)
