@@ -6,7 +6,7 @@ Un ciclo o loop, es una herramienta que nos permite repetir un proceso cierta ca
 encontraremos que existen 2 tipos en **_C++_**, el **_while_** y **_for_**, de estos el **_for_** es una versión iterativa del while, donde consideramos que hay unas variables
 iniciales, a las caules actualizaremos tras cada iteración.
 
-*** NOTA: *** ** recuerden que la condición debe romperse en algún punto, o genera un RTE. **
+***NOTA:*** **recuerden que la condición debe romperse en algún punto, o generará un RTE, es decir, que el ciclo será infinito.**
 
 ## PROBLEMAS DE TAREA
 
