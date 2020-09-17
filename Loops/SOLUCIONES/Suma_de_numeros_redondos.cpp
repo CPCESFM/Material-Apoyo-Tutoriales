@@ -4,22 +4,28 @@ using namespace std;
  
 int main()
 {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
-    int T;
-    cin>>T;
-    for(int i=0 ; i<T  ; i++){
-        string str;
-        cin>>str;
-        int k = 0;
-        for(int j = 0 ; j<(int)str.size() ; j++){
-            if(str[j] != '0') k++;
+    ios_base::sync_with_stdio(0); cin.tie(0);
+    int t,n;
+    int aux,res,k;
+    cin>>t;
+    while(t--){
+        cin>>n;
+        aux = n;
+        res = 1;
+        k = 0;
+        while(aux>0){
+            if(aux%10>0){
+                k++;
+            }
+            aux/=10;
         }
         cout<<k<<"\n";
-        for(int j = str.size() - 1, e = 1 ; j>=0 ; j-- , e*=10){
-            if(str[j] != '0' ){
-                cout<< (int)((str[j] - '1' + 1)*e) << " ";
+        while(n>0){
+            if(n%10>0){
+                cout<<((n%10)*res)<<" ";
             }
+            n/=10;
+            res*=10;
         }
         cout<<"\n";
     }
