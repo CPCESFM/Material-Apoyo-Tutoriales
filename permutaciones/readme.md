@@ -18,3 +18,9 @@ Sea `P` un contenedor de nuestra permutación, velo como un arreglo de un tipo d
 + Encontrar el mayor valor de `y` tal que `P[x] < P[y]`. Si dicho valor de `y` no existe, entonces `P` es la última permutación lexicográfica que puede ser concebida por medio del conjunto de elementos que la conforman.
 + Intercambiar `P[x]` por `P[y]` y viceversa.
 + Invertir los elementos desde `P[x+1]` hasta `P[n]`.
+
+## Para finalizar
+Los problemas sobre permutaciones en programación competitiva no son los más frecuentes pero preparate para obtener un AC en cuanto veas uno, te dejaré un par de problemas relacionados con permutaciones, recuerda que el uso de las funciones `next_permutation(,)` debe ser controlado pues existen **n!** permutaciones distintas de un conjunto con **n** elementos, mucho ojo
+
++ [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) (mucho ojo, insisto)
++ [Wordfish](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=3650)
