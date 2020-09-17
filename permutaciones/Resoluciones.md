@@ -68,10 +68,4 @@ Para la función `calcula()` queda así:
 
 Checa el código, de seguro te quedará mucho mas claro si lo sigues a tu ritmo =)
 
-## Para finalizar
-Los problemas sobre permutaciones en programación competitiva no son los más frecuentes pero preparate para obtener un AC en cuanto veas uno, te dejaré un par de problemas relacionados con permutaciones, recuerda que el uso de las funciones `next_permutation(,)` debe ser controlado pues existen **n!** permutaciones distintas de un conjunto con **n** elementos, mucho ojo
-
-+ [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) (mucho ojo, insisto)
-+ [Wordfish](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=3650)
-
 `Hasta la proxima amigos`
