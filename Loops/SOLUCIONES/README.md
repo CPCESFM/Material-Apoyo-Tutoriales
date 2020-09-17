@@ -2,12 +2,12 @@
 
 Ordenemoslos por dificultad, y expliquemos cada parte.
 
-### Suma de números redondos
+### [Suma de números redondos](https://codeforces.com/contest/1352/problem/A)
 
-### Impares hasta N
+### [ Impares hasta N](https://omegaup.com/arena/problem/Impares-hasta-N/#problems)
 
-### Números No Fibonacci
+### [Triangulo de Pascal](https://omegaup.com/arena/problem/Triangulo-de-Pascal-Niveles/#problems)
 
-### Triangulo de Pascal
+### [ Números no Fibonacci ](https://omegaup.com/arena/problem/nofib/#problems)
 
-### Paridad de sumandos
+### [ Paridad de sumandos ](https://codeforces.com/contest/1352/problem/B)
