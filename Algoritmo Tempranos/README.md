@@ -9,10 +9,11 @@
 ## PROBLEMAS:
   - [MCD Euclides](https://omegaup.com/arena/problem/MCD-Euclides/#problems)
   - [ Chicos Mosby ](https://omegaup.com/arena/problem/OMI-2016-Chicos-Mosby/#problems)
-  - [ Mayor gcd entre 1 y n ](https://codeforces.com/problemset/problem/1370/A)
-  - [ Mínimo común múltiplo en un rango ](https://codeforces.com/problemset/problem/1389/A)
+  - [ Mayor gcd ](https://codeforces.com/problemset/problem/1370/A)
+  - [ Problema del LCM ](https://codeforces.com/problemset/problem/1389/A)
 
   Creanme cuando les digo que con eso tienen para divertirse jajaja. Soy bien malo :'v.
+  Ya los terminé y están sencillos, están más para pensarle los anteriores :'c.
   
   **Atte. _El Veracruz_**
   
